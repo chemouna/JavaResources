@@ -12,3 +12,6 @@
 
 ## Dependency Injection 
 * [Testing with Dagger](https://google.github.io/dagger/testing.html#separate-component-configurations)
+
+## Testing 
+* [Parameterized tests](https://github.com/junit-team/junit4/wiki/Parameterized-tests)
