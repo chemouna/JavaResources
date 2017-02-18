@@ -21,3 +21,6 @@
 
 ## Testing 
 * [Parameterized tests](https://github.com/junit-team/junit4/wiki/Parameterized-tests)
+
+## Floating point 
+* [Strictfp](https://en.wikipedia.org/wiki/Strictfp)
