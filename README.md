@@ -1,6 +1,9 @@
 
 # JavaResources
 
+## Data Structures
+* [A LRU Cache in 10 Lines of Java](http://chriswu.me/blog/a-lru-cache-in-10-lines-of-java/)
+
 ## Arrays 
 * [Arrays](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 * [Java specification: Arrays](https://docs.oracle.com/javase/specs/jls/se7/html/jls-10.html)
