@@ -1,6 +1,9 @@
 
 # JavaResources
 
+## General 
+* [The Java IAQ: Infrequently Answered Questions by Peter Norvig](http://norvig.com/java-iaq.html)
+
 ## Data Structures
 * [A LRU Cache in 10 Lines of Java](http://chriswu.me/blog/a-lru-cache-in-10-lines-of-java/)
 
