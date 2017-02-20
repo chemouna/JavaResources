@@ -27,3 +27,6 @@
 
 ## Floating point 
 * [Strictfp](https://en.wikipedia.org/wiki/Strictfp)
+
+## Libraries
+* [Apache commons Math](https://github.com/apache/commons-math)
