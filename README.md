@@ -6,6 +6,7 @@
 
 ## Data Structures
 * [A LRU Cache in 10 Lines of Java](http://chriswu.me/blog/a-lru-cache-in-10-lines-of-java/)
+* [Implementing a Queue using a circular array](http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/8-List/array-queue2.html)
 
 ## Arrays 
 * [Arrays](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
