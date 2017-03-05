@@ -29,8 +29,9 @@
 ## Testing 
 * [Parameterized tests](https://github.com/junit-team/junit4/wiki/Parameterized-tests)
 
-## Floating point 
+## Arithmetic
 * [Strictfp](https://en.wikipedia.org/wiki/Strictfp)
+* [Underflow bug](https://www.hakkalabs.co/articles/underflow-bug)
 
 ## Libraries
 * [Apache commons Math](https://github.com/apache/commons-math)
