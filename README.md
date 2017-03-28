@@ -10,6 +10,7 @@
 * [Analysis of Java implementations of Fibonacci Heap](http://nlfiedler.github.io/2008/05/31/analysis-of-java-implementations-of-fibonacci-heap.html)
 * [Nasty Java HashMap race condition](https://confusion.tweakblogs.net/blog/2019/nasty-java-hashmap-race-condition.html)
 * [A Beautiful Race Condition](http://mailinator.blogspot.fr/2009/06/beautiful-race-condition.html)
+* [ConcurrentHashMap – avoid a common misuse](https://ria101.wordpress.com/2011/12/12/concurrenthashmap-avoid-a-common-misuse/)
 
 ## Arrays 
 * [Arrays](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
