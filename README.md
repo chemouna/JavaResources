@@ -11,6 +11,7 @@
 * [Nasty Java HashMap race condition](https://confusion.tweakblogs.net/blog/2019/nasty-java-hashmap-race-condition.html)
 * [A Beautiful Race Condition](http://mailinator.blogspot.fr/2009/06/beautiful-race-condition.html)
 * [ConcurrentHashMap – avoid a common misuse](https://ria101.wordpress.com/2011/12/12/concurrenthashmap-avoid-a-common-misuse/)
+* [Guava's MultiMap](https://google.github.io/guava/releases/snapshot/api/docs/com/google/common/collect/Multimap.html)
 
 ## Arrays 
 * [Arrays](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
