@@ -19,6 +19,9 @@
 * [Java specification: Arrays](https://docs.oracle.com/javase/specs/jls/se7/html/jls-10.html)
 * [3 Good Reasons to Avoid Arrays in Java Interfaces](http://eclipsesource.com/blogs/2014/04/11/3-good-reasons-to-avoid-arrays-in-java-interfaces/)
 
+## Collections
+* [Difference between HashMap, LinkedHashMap and TreeMap in Java](http://javarevisited.blogspot.co.uk/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)
+
 ## Autoboxing and unboxing 
 * [The Advantages and Traps of Autoboxing](https://javaeffective.wordpress.com/2010/05/21/the-advantages-and-traps-of-autoboxing/)
 
