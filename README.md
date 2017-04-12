@@ -22,6 +22,9 @@
 ## Collections
 * [Difference between HashMap, LinkedHashMap and TreeMap in Java](http://javarevisited.blogspot.co.uk/2015/08/difference-between-HashMap-vs-TreeMap-vs-LinkedHashMap-Java.html)
 
+## Enums 
+* [Solutions to common Java enum problems](https://schneide.wordpress.com/2012/10/15/solutions-to-common-java-enum-problems/)
+
 ## Autoboxing and unboxing 
 * [The Advantages and Traps of Autoboxing](https://javaeffective.wordpress.com/2010/05/21/the-advantages-and-traps-of-autoboxing/)
 
