@@ -13,6 +13,7 @@
 * [ConcurrentHashMap – avoid a common misuse](https://ria101.wordpress.com/2011/12/12/concurrenthashmap-avoid-a-common-misuse/)
 * [Guava's MultiMap](https://google.github.io/guava/releases/snapshot/api/docs/com/google/common/collect/Multimap.html)
 * [Guava's MultiMap Usage](http://tomjefferys.blogspot.fr/2011/09/multimaps-google-guava.html)
+* [A LRU Cache in 10 Lines of Java](http://chriswu.me/blog/a-lru-cache-in-10-lines-of-java/)
 
 ## Arrays 
 * [Arrays](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
